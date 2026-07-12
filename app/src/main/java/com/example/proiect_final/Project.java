@@ -9,6 +9,5 @@ public class Project {
     public Project(String name) {
         this.name = name;
         this.tasks = new ArrayList<>();
-
     }
 }
